@@ -4,6 +4,7 @@
 *.pyc
 __pycache__/
 db.sqlite3
+*.sqlite3
 media/
 staticfiles/
 local_settings.py
@@ -14,6 +15,7 @@ ENV/
 env/
 .venv/
 .env/
+.env
 
 # VS Code
 .vscode/
